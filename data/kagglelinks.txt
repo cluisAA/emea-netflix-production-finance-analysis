@@ -1,0 +1,5 @@
+https://www.kaggle.com/datasets/shivamb/netflix-shows
+netflix_titles
+
+https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
+tmdb_5000_movies
